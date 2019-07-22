@@ -1,0 +1,9 @@
+str = "";
+color = c_white;
+font = fGame;
+hsp = random_range(-5,5);
+vsp = random_range(-8,-20);
+xscale = 0;
+yscale = 0;
+angle = 0;
+gtangle = random_range(-20,20);

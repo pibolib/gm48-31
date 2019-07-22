@@ -1,0 +1,16 @@
+#macro pause oGame.pauseTime
+pauseTime = 0;
+startTime = 0;
+powerUp = array_create(7,0);
+scr = 0;
+dscr = 0;
+scrlv = 0;
+nextlv = 1500;
+lvs = 5;
+level = 0;
+levelComplete = false;
+lcTime = 0;
+dead = false;
+deadTime = 0;
+fuelPercent = 100;
+levelBonus = 0;

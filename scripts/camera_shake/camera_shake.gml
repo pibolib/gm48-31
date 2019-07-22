@@ -1,0 +1,1 @@
+oCamera.shake += argument0;
